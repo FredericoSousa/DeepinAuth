@@ -1,0 +1,12 @@
+{
+  "name": "keyboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "node-key-sender": "^1.0.11"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
